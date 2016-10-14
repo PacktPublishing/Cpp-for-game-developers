@@ -1,6 +1,6 @@
 # C++: Game Developers
 
-This is the code repository for [C++: Game Developers](https://play.google.com/store/apps/details?id=https%3A%2F%2Fwww.packtpub.com%2Fgame-development%2Fc-game-development-cookbook&referrer=utm_source%3Dgithub%26utm_medium%3Drepository), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [C++: Game Developers](https://www.packtpub.com/game-development/c-game-development-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785882722), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## Instructions and Navigation
 
